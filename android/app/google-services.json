@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "501662675289",
+    "firebase_url": "https://guest-house-bff87.firebaseio.com",
+    "project_id": "guest-house-bff87",
+    "storage_bucket": "guest-house-bff87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501662675289:android:6cc4cbb4220d739d8ddc48",
+        "android_client_info": {
+          "package_name": "com.fypmblapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501662675289-gno1fje3r4d050a212jbp6f7d9r735al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS-Bd1oY1Qw13huVRj7oZEQ7j_dAGJEqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501662675289-gno1fje3r4d050a212jbp6f7d9r735al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
